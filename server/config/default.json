@@ -1,0 +1,13 @@
+{
+    "app": {
+      "name": "College Appointment System",
+      "version": "1.0.0"
+    },
+    "server": {
+      "port": 5000
+    },
+    "features": {
+      "enableLogging": true
+    }
+  }
+  
